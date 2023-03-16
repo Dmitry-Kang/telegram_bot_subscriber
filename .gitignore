@@ -1,0 +1,3 @@
+.env
+__pycache__/prisma.cpython-38.pyc
+test.py
